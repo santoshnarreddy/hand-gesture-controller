@@ -10,3 +10,6 @@ screenshot_*.jpg
 .env
 venv/
 .venv/
+build/
+dist/
+*.spec
